@@ -3,7 +3,7 @@
 ## Usage
 
 ```shell
-faas-cli template pull https://github.com/hayer/faas-fsharp-template
+faas-cli template pull https://github.com/Fizzixnerd/faas-fsharp-template
 faas-cli new myfunction --lang fsharp
 ```
 
